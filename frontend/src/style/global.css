@@ -1,0 +1,11 @@
+input, button {
+  cursor: pointer;
+}
+
+input {
+  transition: all 0.2s ease;
+}
+
+input:focus {
+  outline: none;
+}
